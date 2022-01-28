@@ -12,7 +12,17 @@ public class DecreasingPatternStar {
 			for (int j = i; j < n; j++) {
 				System.out.print("* ");
 				
+			System.out.println("Shakthi.............");
+			System.out.println("Shakthi.............");
+			System.out.println("Shakthi.............");
+			
+			
+			
 			}
+			
+			
+			
+			
 			
 			System.out.println();
 			
