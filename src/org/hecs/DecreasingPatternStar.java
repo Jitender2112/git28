@@ -12,12 +12,24 @@ public class DecreasingPatternStar {
 			for (int j = i; j < n; j++) {
 				System.out.print("* ");
 				
+				System.out.println("Shakthi.............");
+				System.out.println("Shakthi.............");
+				System.out.println("Shakthi.............");
+				
 				System.out.println("++++++++");
 				System.out.println("++++++++");
 				System.out.println("++++++++");
 				
-			}
+				
+//<<<<<<< HEAD
+		
 			
+			
+			
+//=======
+				
+//>>>>>>> acf63962a1504d8023aae050e9fbec19f54b7e9a
+			}
 			System.out.println();
 			
 		}
